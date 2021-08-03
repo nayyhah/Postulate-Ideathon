@@ -1,4 +1,4 @@
-<img src="./decipher597/public/images/decipher_icon.png" alt="Logo" width="500">
+<img src="./public/images/decipher_icon.png" alt="Logo" width="500">
 
 ## DECIPHER | <i>Breaking the Walls of Linguistic Barrier</i>
 
